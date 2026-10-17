@@ -27,3 +27,5 @@ When a service is unresponsive and needs a controlled restart.
 
 If restart fails, escalate to on-call lead.
 
+
+## IMPORTANT: Never restart during trading hours (09:00-17:30 BST)
